@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route('/api')
 def testing():
-    return {'message': "halo success"}
+    return {'message': "halo success update"}
